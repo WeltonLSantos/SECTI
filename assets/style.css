@@ -865,3 +865,10 @@ a {
 .resp-sharing-button--telegram:hover {
     background-color: #4B97D1;
 }
+
+[vw] [vw-access-button] .access-button {
+    width: 50px;
+    margin-top: 90px;
+    float: right;
+    margin-right: 10px;
+}
